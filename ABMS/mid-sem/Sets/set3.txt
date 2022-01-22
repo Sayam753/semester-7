@@ -1,0 +1,4 @@
+Change Color Condition: Change colors of turtles who are in 1st quadrant, 2nd quadrant, and 3rd quadrant, 4th quadrant to colors red, green, blue, and yellow respectively
+Turtles Move Condition: All turtles turn to the specified direction and moves forward 1 step for every tick [red -> NE, green -> SE, blue -> NE, yellow -> SE]
+Kill Condition: When within radius 1, any turtle can kill any other turtle provided the target/victim’s who number is less than the attacker
+Kill Probability Condition: Assume that the probability that was set using the slider is ‘P’, then the kill probability should be P / x, where ‘x’ is the x-coordinate of the turtle.[Only when the switch is on]

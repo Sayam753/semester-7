@@ -1,0 +1,4 @@
+Change Color Condition: Change colors of turtles whose who value is between 1-25, 26-50, 51-75, and 76-100 to colors red, green, blue, and yellow respectively
+Turtles Move Condition: All turtles turn to the specified direction and moves forward 1 step for every tick [red -> N, green -> S, blue -> W, yellow -> E]
+Kill Condition: When within radius 1, any turtle can kill any other turtle provided the target/victim’s who number is less than the attacker
+Kill Probability Condition: Assume that the probability that was set using the slider ‘P’, then the kill probability should be P / y, where ‘y’ is the y-coordinate of the turtle.[Only when the switch is on]
